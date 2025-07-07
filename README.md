@@ -1,18 +1,16 @@
-# 🚀 Welcome to **Giulio's Learning Hub**
-
-> *Empowering curious minds to turn ideas into code.*
+# 👨‍💻 Welcome to **Giulio's Learning Hub**
 
 ---
 
-## ✨ About Me
+## ℹ️ About Me
 
-Hi! I’m **Giulio**, AI engineer and educator. I program AI model with Python and now I dedicate my time to helping newcomers break into tech — faster and with fewer headaches than I had.
+Hi! I’m **Giulio**, AI engineer and educator. I program AI models and dedicate my time to helping newcomers break into tech — *faster and with fewer headaches than I had*.
 
 ---
 
-## 🌱 Why I Teach — *The Cause*
+## 🛠️ Why I Teach
 
-Learning to code changed my life. I believe **accessible, project‑based education** can do the same for anyone, regardless of background or budget. My mission is to:
+I believe **accessible, project‑based education** its necessary to *learn what matter*, regardless of background or budget. My mission is to:
 
 1. **Demystify programming** through plain‑language explanations and hands‑on projects.
 2. **Bridge theory and practice** so you can ship real value — not just pass quizzes.
@@ -22,19 +20,18 @@ Learning to code changed my life. I believe **accessible, project‑based educat
 
 ## 📚 Courses
 
-| Track               | Description                                                                                                        | Level        |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------ |
-| **C++ 101**         | Foundations of C++: syntax, memory management, classes, and best practices.                                        | Beginner     |
-| **Python 101**      | Zero‑to‑Hero introduction: syntax, data structures, testing, tooling.                                              | Beginner     |
-| **AI Essentials**   | Think like AI: probability, statistics, machine‑learning foundations, and ethics.                                  | Intermediate |
-| **Build AI Models** | Write production‑ready deep‑learning code with PyTorch: data pipelines, model design, training tricks, deployment. | Intermediate |
+| Track            | Description                                                                                                        | Level        |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------ | ------------ |
+| **C++ 101**      | Foundations of C++: syntax, memory management, classes and best practices.                                         | Beginner     |
+| **Python 101**   | Zero‑to‑Hero introduction: syntax, data structures, testing and efficient codin                                    | Beginner     |
+| **AI Jumpstart** | Think like AI: foundations, the meaning of learning, neural networks and computer vision                           | Intermediate |
+| **Code AI**      | AI from the code: data management, model design, training and deployment w/ PyTorch                                | Intermediate |
 
 ---
 
-## 📝 How to Enroll
+## 💡 How to Enroll
 
-1. ⭐ **Star** this repo to stay in the loop.
-2. Write me at:
+Write me for any information and questions at:
 
 * **Email:** [russogiulio1998@icloud.com](mailto:russogiulio1998@icloud.com)
 
@@ -44,13 +41,12 @@ Learning to code changed my life. I believe **accessible, project‑based educat
 
 ## 🌐 Connections
 
-| Platform        | Link                                                                 |
-| --------------- | -------------------------------------------------------------------- |
-| **LinkedIn**    | [linkedin.com/in/russogiulio](https://linkedin.com/in/russogiulio) |
+[LinkedIn](https://linkedin.com/in/russogiulio) <br>
+[GitHub](https://github.com/GiulioRusso) <br>
 
 ---
 
 ## 🌟 Acknowledgements
 
-* Powered by caffeine and curiosity ☕️
+Powered by caffeine and curiosity.
 
