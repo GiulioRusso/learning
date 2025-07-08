@@ -31,11 +31,13 @@ I believe **accessible, project‑based education** its necessary to *learn what
 
 ## 💡 How to Enroll
 
-Write me for any information and questions at:
+Curious about a course or ready to secure your seat? Email me directly:
 
 * **Email:** [russogiulio1998@icloud.com](mailto:russogiulio1998@icloud.com)
 
-*Seats are capped to keep cohorts small & personal.*
+I’ll personally answer your questions and walk you through enrollment.
+
+*Seats are limited to keep cohorts small & personal.*
 
 ---
 
