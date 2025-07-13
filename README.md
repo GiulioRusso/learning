@@ -10,10 +10,10 @@ Hi! I’m **Giulio**, AI engineer and educator. I program AI models and dedicate
 
 ## 🛠️ Why I Teach
 
-I believe **accessible, project‑based education** its necessary to *learn what matter*, regardless of background or budget. My mission is to:
+I believe **accessible, project‑based education** its necessary to *learn what matter* and *what is useful*, regardless of background or budget in orderd to bring value with your code. My mission is to:
 
-1. **Demystify programming** through plain‑language explanations and hands‑on projects.
-2. **Bridge theory and practice** so you can ship real value — not just pass quizzes.
+1. **Demystify programming** through plain‑language explanations, clear visualizations and hands‑on projects.
+2. **Bridge theory and practice** so you can ship real applications — not just pass quizzes.
 3. **Foster community** where learners help learners, because teaching is the fastest way to level‑up.
 
 ---
@@ -22,10 +22,10 @@ I believe **accessible, project‑based education** its necessary to *learn what
 
 | Track            | Description                                                                                                        | Level        |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------ | ------------ |
-| **C++ 101**      | Foundations of C++: syntax, memory management, classes and best practices.                                         | Beginner     |
-| **Python 101**   | Zero‑to‑Hero introduction: syntax, data structures, testing and efficient codin                                    | Beginner     |
-| **AI Jumpstart** | Think like AI: foundations, the meaning of learning, neural networks and computer vision                           | Intermediate |
-| **Code AI**      | AI from the code: data management, model design, training and deployment w/ PyTorch                                | Intermediate |
+| **C++ 101**      | Foundations of C++: syntax, variables, loop, operators, arrays, memory management, classes and much more. All *best practices* that really matter to understand the *programming foundations* at low level with a *solid language*.                                         | Beginner     |
+| **Python 101**   | Zero‑to‑Hero introduction: syntax, data structures, programming logics and much more. Learn *how to ship, deploy and mantain* Python code with *efficient coding skills*.                                      | Beginner     |
+| **AI Jumpstart** | Think like AI: this course is "the" milestone foundation from which you can start your AI experience. You will understand the *meaning of 'learning'* from the AI point of view, the *different kind of machine learning approaches*, *neural networks*, *computer vision* and much more. Understand the inner mechanisms of AI models is the first step to unlock their power.                           | Intermediate |
+| **Code AI**      | AI from the code: data management, model design, training and deployment w/ PyTorch. Writing good code can be challenging, but writing good AI code can be even more difficult! Starting with a solid structure is the key to stay organized, modular and ready to face any upcoming modification. This course will dive into the knowledge of AI coding and best practices to learn how to organize and mantain your code.                                | Advanced |
 
 ---
 
@@ -43,8 +43,10 @@ I’ll personally answer your questions and walk you through enrollment.
 
 ## 🌐 Connections
 
-[LinkedIn](https://linkedin.com/in/russogiulio) <br>
-[GitHub](https://github.com/GiulioRusso) <br>
+Know more about me here:
+
+* [LinkedIn](https://linkedin.com/in/russogiulio) <br>
+* [GitHub](https://github.com/GiulioRusso) <br>
 
 ---
 
